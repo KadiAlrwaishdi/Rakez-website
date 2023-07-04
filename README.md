@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 # Rakez-website
 =======
-<<<<<<< HEAD
 # webProject
 size guide website
 
@@ -10,5 +8,3 @@ size guide website
 لكل افراد المجتمع،,ومقسم خصيصا حسب ازياءه واحتياجاته.مع سهولة الوصول للمقاسات وقراءتها.
 =======
 # Rakez-website
->>>>>>> f9ba6e85795c90037fa22ff728e3336afe1fc597
->>>>>>> 04dd6da (Create project)
